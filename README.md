@@ -1,8 +1,27 @@
-# Getting Started with Create React App
+## Building Todo App with React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Overview
 
-## Available Scripts
+Organizing activities is a way of optimizing time, this app is design to allow use optimize time by creating a list of activities. This App is working properly.
+
+### For Context
+
+We are to build a standalone full todo App that can be used any user.
+
+### Required Endpoints
+
+
+### Expectations
+
+- Organize your activity
+- Edit and Delete activity where necessary 
+
+## Technology
+- HTML
+- CSS
+- JavaScript
+- React
+
 
 In the project directory, you can run:
 
